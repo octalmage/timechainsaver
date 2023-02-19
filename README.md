@@ -27,7 +27,7 @@ Open the build directory and double click `TimechainSaver.saver` to install.
 open build/Release
 ```
 
-To update the specific NFT displayed from the collection you should open `index.html` then update 
+To update the specific NFT displayed from the collection, open `index.html` then update the `seed` found on line `25`.
 
 License
 ------
