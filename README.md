@@ -1,4 +1,4 @@
-[Inscription #144377]((https://ordinals.com/inscription/57347468b137107d8e6eb25a5d4ef24647a715765a79dd84cede8a2758eb6527i0)) Screensaver
+[Inscription #144377](https://ordinals.com/inscription/57347468b137107d8e6eb25a5d4ef24647a715765a79dd84cede8a2758eb6527i0)Screensaver
 =============================================
 
 ![Preview of NFT](preview.gif)
